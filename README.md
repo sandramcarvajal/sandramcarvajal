@@ -1,8 +1,8 @@
 # 👋 Hola, soy Sandra Carvajal
 
 🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB)  
-💻 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD)  
-🚀 Apasionada por el desarrollo web, diseño UX/UI y soluciones tecnológicas creativas  
+🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD)  
+
 
 ---
 
