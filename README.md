@@ -31,13 +31,13 @@
 - 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/crudphp)**  
   PHP, MySQL | Sistema de autenticación y validación de usuarios con base de datos  
 
-- 🎨 **[Aplicación de Asesorías Académicas](https://github.com/sandramcarvajal/AsesoriasApp)**  
-  Figma | Investigación, prototipado y diseño web y móvil con enfoque educativo  
+- 🚗 **[Autos de Lujo Web](https://github.com/sandramcarvajal/tallerGridSandraCarvajal)**  
+  HTML, CSS Grid, JavaScript | Página web interactiva con carrusel de imágenes y diseño responsive. 
 
 ---
 
 ## 📫 Conéctate conmigo
 
 - ✉️ Email: smcarvajalgu@gmail.com
-- 🌐 Linkedin: www.linkedin.com/in/sandra-milena-carvajal-gutierrez-03339132b
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] Linkedin: www.linkedin.com/in/sandra-milena-carvajal-gutierrez-03339132b
 
