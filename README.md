@@ -38,5 +38,6 @@
 
 ## 📫 Conéctate conmigo
 
-- ✉️ Email: smcarvajalgu@gmail.com   
+- ✉️ Email: smcarvajalgu@gmail.com
+- 🌐 Linkedin: www.linkedin.com/in/sandra-milena-carvajal-gutierrez-03339132b
 
