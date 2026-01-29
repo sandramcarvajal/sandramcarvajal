@@ -25,7 +25,7 @@
 - 📱 **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/App-Runo)**  
   Figma | Diseño UX/UI y prototipo interactivo de app móvil para conectar personas mediante running  
 
-- 🍔 **[Página Web de Comidas Rápidas](https://github.com/sandramcarvajal/ComidasRapidas)**  
+- 🍔 **[Página Web de Comidas Rápidas](https://github.com/sandramcarvajal/Proyecto_Tech)**  
   HTML, Bootstrap, JavaScript, JSON | Diseño moderno y responsivo mostrando combos, menú y promociones  
 
 - 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/crudphp)**  
