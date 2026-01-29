@@ -28,7 +28,7 @@
 - 🍔 **[Página Web de Comidas Rápidas](https://github.com/sandramcarvajal/ComidasRapidas)**  
   HTML, Bootstrap, JavaScript, JSON | Diseño moderno y responsivo mostrando combos, menú y promociones  
 
-- 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/LoginSystem)**  
+- 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/crudphp)**  
   PHP, MySQL | Sistema de autenticación y validación de usuarios con base de datos  
 
 - 🎨 **[Aplicación de Asesorías Académicas](https://github.com/sandramcarvajal/AsesoriasApp)**  
