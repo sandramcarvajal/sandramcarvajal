@@ -13,8 +13,6 @@
 - **Bases de datos:** MySQL, PostgreSQL, Oracle BD  
 - **Control de versiones:** Git, GitHub  
 - **Diseño y UX/UI:** Figma  
-- **Otros:** VS Code, metodologías ágiles, inteligencia artificial  
-
 ---
 
 ## 📂 Proyectos Destacados
