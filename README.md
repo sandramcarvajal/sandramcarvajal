@@ -19,10 +19,10 @@
 
 ## 📂 Proyectos Destacados
 
-- 🌐 **[Portafolio Web Dinámico](https://github.com/sandramcarvajal/PortafolioWeb)**  
+- 🌐 **[Portafolio Web Dinámico](https://github.com/sandramcarvajal/mi-portafolio)**  
   HTML, CSS, JavaScript | Currículum web interactivo con diseño responsivo y experiencia de usuario  
 
-- 📱 **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/RunoApp)**  
+- 📱 **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/App-Runo)**  
   Figma | Diseño UX/UI y prototipo interactivo de app móvil para conectar personas mediante running  
 
 - 🍔 **[Página Web de Comidas Rápidas](https://github.com/sandramcarvajal/ComidasRapidas)**  
