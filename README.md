@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Sandra Carvajal
 
-<!--
-**sandramcarvajal/sandramcarvajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB)  
+💻 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD)  
+🚀 Apasionada por el desarrollo web, diseño UX/UI y soluciones tecnológicas creativas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y Herramientas
+
+- **Lenguajes:** PHP, Python, JavaScript  
+- **Web:** HTML, CSS, Bootstrap  
+- **Bases de datos:** MySQL, PostgreSQL, Oracle BD  
+- **Control de versiones:** Git, GitHub  
+- **Diseño y UX/UI:** Figma  
+- **Otros:** VS Code, metodologías ágiles, inteligencia artificial  
+
+---
+
+## 📂 Proyectos Destacados
+
+- 🌐 **[Portafolio Web Dinámico](https://github.com/sandramcarvajal/PortafolioWeb)**  
+  HTML, CSS, JavaScript | Currículum web interactivo con diseño responsivo y experiencia de usuario  
+
+- 📱 **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/RunoApp)**  
+  Figma | Diseño UX/UI y prototipo interactivo de app móvil para conectar personas mediante running  
+
+- 🍔 **[Página Web de Comidas Rápidas](https://github.com/sandramcarvajal/ComidasRapidas)**  
+  HTML, Bootstrap, JavaScript, JSON | Diseño moderno y responsivo mostrando combos, menú y promociones  
+
+- 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/LoginSystem)**  
+  PHP, MySQL | Sistema de autenticación y validación de usuarios con base de datos  
+
+- 🎨 **[Aplicación de Asesorías Académicas](https://github.com/sandramcarvajal/AsesoriasApp)**  
+  Figma | Investigación, prototipado y diseño web y móvil con enfoque educativo  
+
+---
+
+## 📫 Conéctate conmigo
+
+- ✉️ Email: smcarvajalgu@gmail.com   
+
