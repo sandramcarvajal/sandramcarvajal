@@ -17,20 +17,23 @@
 
 ## 📂 Proyectos Destacados
 
+- 🐱 **[Pokédex Interactiva](https://github.com/sandramcarvajal/Tailwind-CSS)**  
+  HTML, Tailwind CSS, JavaScript | Aplicación web que consume la PokéAPI, con búsqueda, filtros por tipo, ordenamiento, paginación y diseño responsivo.
+
 - 🌐 **[Portafolio Web Dinámico](https://github.com/sandramcarvajal/mi-portafolio)**  
-  HTML, CSS, JavaScript | Currículum web interactivo con diseño responsivo y experiencia de usuario  
-
-- 📱 **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/App-Runo)**  
-  Figma | Diseño UX/UI y prototipo interactivo de app móvil para conectar personas mediante running  
-
-- 🍔 **[Página Web de Comidas Rápidas](https://github.com/luisroja1996/Proyecto_Tech)**  
-  HTML, Bootstrap, JavaScript, JSON | Diseño moderno y responsivo mostrando combos, menú y promociones  
-
-- 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/crudphp)**  
-  PHP, MySQL | Sistema de autenticación y validación de usuarios con base de datos  
+  HTML, CSS, JavaScript | Currículum web interactivo con diseño responsivo y experiencia de usuario.
 
 - 🚗 **[Autos de Lujo Web](https://github.com/sandramcarvajal/tallerGridSandraCarvajal)**  
-  HTML, CSS Grid, JavaScript | Página web interactiva con carrusel de imágenes y diseño responsive. 
+  HTML, CSS Grid, JavaScript | Página web interactiva con carrusel de imágenes y diseño responsive.
+
+- 🍔 **[Página Web de Comidas Rápidas](https://github.com/luisroja1996/Proyecto_Tech)**  
+  HTML, Bootstrap, JavaScript, JSON | Diseño moderno y responsivo mostrando combos, menú y promociones.  
+
+- 🔑 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/crudphp)**  
+  PHP, MySQL | Sistema de autenticación y validación de usuarios con base de datos.  
+
+- 📱 **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/App-Runo)**  
+  Figma | Diseño UX/UI y prototipo interactivo de app móvil para conectar personas mediante running.  
 
 ---
 
