@@ -2,6 +2,138 @@
 
 🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB).  
 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD).  
+🚀 Actualmente en búsqueda de un **contrato de aprendizaje** en desarrollo de software, con enfoque en **frontend y backend**, consumo de **APIs REST**, autenticación **JWT** y manejo de **bases de datos relacionales**.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes
+- PHP
+- JavaScript
+- Python
+
+### ⚙️ Backend & APIs
+- Node.js
+- APIs REST
+- Postman
+
+### 🌐 Desarrollo Web
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+
+### 🗄️ Bases de Datos
+- MySQL
+- PostgreSQL
+- Oracle BD
+
+### 🔧 Herramientas
+- DBeaver
+
+### 🎨 Diseño / UX
+- Figma
+- UX/UI
+
+### 🔐 Autenticación
+- JWT (JSON Web Token)
+
+### 🔄 Control de Versiones
+- Git
+- GitHub
+
+---
+
+## 📁 Proyectos Destacados
+
+### 🐱 Pokédex Interactiva
+**HTML, Tailwind CSS, JavaScript**
+
+Aplicación web que consume la **PokeAPI**, implementando:
+- Búsqueda de Pokémon
+- Filtros por tipo
+- Ordenamiento
+- Paginación
+- Diseño responsive
+
+---
+
+### 🌐 Portafolio Web Dinámico
+**HTML, CSS, JavaScript**
+
+Currículum web interactivo con diseño responsivo y enfoque en experiencia de usuario.
+
+---
+
+### 🚗 Autos de Lujo Web
+**HTML, CSS Grid, JavaScript**
+
+Página web interactiva con carrusel de imágenes y diseño responsive.
+
+---
+
+### 🍔 Página Web de Comidas Rápidas
+**HTML, Bootstrap, JavaScript, JSON**
+
+Sitio web con diseño moderno y responsivo, mostrando combos, menú y promociones.
+
+---
+
+### 🔐 Sistema de Inicio de Sesión
+**PHP, MySQL**
+
+Sistema de autenticación de usuarios que incluye:
+- Validación de credenciales
+- Conexión a base de datos relacional
+- Manejo básico de sesiones
+
+---
+
+### 🏃‍♀️ RUNO – App de Bienestar
+**Figma | UX/UI**
+
+Prototipo interactivo de aplicación móvil enfocada en bienestar, vida activa y conexión social mediante running.
+
+---
+
+## 🚧 Proyecto en Curso
+
+### 🧑‍💼 Gestión de Proveedores – Backend (En desarrollo)
+**Node.js, APIs REST, Postman, DBeaver**
+
+Proyecto backend académico en desarrollo para la gestión de proveedores, aplicando:
+
+- Diseño de APIs REST
+- Operaciones CRUD
+- Pruebas de endpoints con Postman
+- Conexión y administración de bases de datos relacionales con DBeaver
+- Introducción a autenticación con JWT
+
+🔹 *Proyecto en desarrollo (aún no publicado en GitHub).*
+
+---
+
+## 📫 Conéctate conmigo
+
+- 📧 **Email:** smcarvajalgu@gmail.com  
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/sandra-milena-carvajal-gutierrez-03339132b
+
+---
+
+⭐ Gracias por visitar mi perfil.  
+Estoy abierta a oportunidades de **aprendizaje, prácticas y crecimiento profesional en desarrollo de software**.
+
+
+
+
+
+
+# 👋 Hola, soy Sandra Carvajal
+
+🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB).  
+🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD).  
 ⭐ Actualemente en búsqueda de un **contrato de aprendizaje** en desarrollo de software, con enfoque en frontend y backend, consumo de 
     APIs REST, autenticación JWT y manejo de bases de datos relacionales.
 
