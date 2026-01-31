@@ -105,6 +105,15 @@ Hoja de vida digital desarrollada como sitio web, con diseño moderno y estructu
 
 ---
 
+### 💼 **[Leyendas del Fútbol](https://github.com/sandramcarvajal/boceto-futbolistas)**
+
+HTML, CSS, JavaScript
+
+Sitio web estático que presenta fichas individuales de grandes futbolistas, con biografía, trayectoria y logros.
+Incluye navegación entre jugadores y una estructura organizada por archivos y carpetas.
+
+---
+
 ## 🚧 Proyecto en Curso
 
 ### 🧑‍💼 Gestión de Proveedores – Backend y Frontend (En desarrollo)
