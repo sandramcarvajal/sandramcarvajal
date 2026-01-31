@@ -47,7 +47,7 @@
 
 ## 📁 Proyectos Destacados
 
-### 🐱 Pokédex Interactiva
+### 🐱 **[Pokédex Interactiva](https://github.com/sandramcarvajal/Tailwind-CSS)**
 **HTML, Tailwind CSS, JavaScript**
 
 Aplicación web que consume la **PokeAPI**, implementando:
@@ -59,28 +59,28 @@ Aplicación web que consume la **PokeAPI**, implementando:
 
 ---
 
-### 🌐 Portafolio Web Dinámico
+### 🌐 **[Portafolio Web Dinámico](https://github.com/sandramcarvajal/mi-portafolio)** 
 **HTML, CSS, JavaScript**
 
 Currículum web interactivo con diseño responsivo y enfoque en experiencia de usuario.
 
 ---
 
-### 🚗 Autos de Lujo Web
+### 🚗 **[Autos de Lujo Web](https://github.com/sandramcarvajal/tallerGridSandraCarvajal)**
 **HTML, CSS Grid, JavaScript**
 
 Página web interactiva con carrusel de imágenes y diseño responsive.
 
 ---
 
-### 🍔 Página Web de Comidas Rápidas
+### 🍔 **[Página Web de Comidas Rápidas](https://github.com/luisroja1996/Proyecto_Tech)** 
 **HTML, Bootstrap, JavaScript, JSON**
 
 Sitio web con diseño moderno y responsivo, mostrando combos, menú y promociones.
 
 ---
 
-### 🔐 Sistema de Inicio de Sesión
+### 🔐 **[Sistema de Inicio de Sesión](https://github.com/sandramcarvajal/crudphp)**  
 **PHP, MySQL**
 
 Sistema de autenticación de usuarios que incluye:
@@ -90,7 +90,7 @@ Sistema de autenticación de usuarios que incluye:
 
 ---
 
-### 🏃‍♀️ RUNO – App de Bienestar
+### 🏃‍♀️ **[RUNO – App de Bienestar](https://github.com/sandramcarvajal/App-Runo)**  
 **Figma | UX/UI**
 
 Prototipo interactivo de aplicación móvil enfocada en bienestar, vida activa y conexión social mediante running.
@@ -102,7 +102,7 @@ Prototipo interactivo de aplicación móvil enfocada en bienestar, vida activa y
 ### 🧑‍💼 Gestión de Proveedores – Backend (En desarrollo)
 **Node.js, APIs REST, Postman, DBeaver**
 
-Proyecto backend académico en desarrollo para la gestión de proveedores, aplicando:
+Proyecto backend y frontend en desarrollo para la gestión de proveedores, aplicando:
 
 - Diseño de APIs REST
 - Operaciones CRUD
@@ -117,8 +117,7 @@ Proyecto backend académico en desarrollo para la gestión de proveedores, aplic
 ## 📫 Conéctate conmigo
 
 - 📧 **Email:** smcarvajalgu@gmail.com  
-- 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/sandra-milena-carvajal-gutierrez-03339132b
+- 💼 **LinkedIn:**  https://www.linkedin.com/in/sandra-milena-carvajal-gutierrez-03339132b
 
 ---
 
