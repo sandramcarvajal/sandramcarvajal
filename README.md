@@ -97,6 +97,12 @@ Prototipo interactivo de aplicación móvil enfocada en bienestar, vida activa y
 
 ---
 
+### 💼 **[Curriculum Vitae Web](https://github.com/sandramcarvajal/Curriculum-vitae)**
+
+HTML, CSS, JavaScript
+
+Hoja de vida digital desarrollada como sitio web, con diseño moderno y estructura clara, que incluye información personal, habilidades, formación y contacto, optimizada para una experiencia responsive.
+
 ## 🚧 Proyecto en Curso
 
 ### 🧑‍💼 Gestión de Proveedores – Backend y Frontend (En desarrollo)
