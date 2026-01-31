@@ -105,7 +105,7 @@ Hoja de vida digital desarrollada como sitio web, con diseño moderno y estructu
 
 ---
 
-### 💼 **[Leyendas del Fútbol](https://github.com/sandramcarvajal/boceto-futbolistas)**
+### ⚽ **[Leyendas del Fútbol](https://github.com/sandramcarvajal/boceto-futbolistas)**
 
 HTML, CSS, JavaScript
 
