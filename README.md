@@ -2,7 +2,8 @@
 
 🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB).  
 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD).  
-⭐ Actualemente en búsqueda de un **contrato de aprendizaje** en desarrollo de software, con enfoque en frontend y backend, consumo de APIs REST, autenticación JWT y manejo de bases de datos relacionales.
+⭐ Actualemente en búsqueda de un **contrato de aprendizaje** en desarrollo de software, con enfoque en frontend y backend, consumo de 
+    APIs REST, autenticación JWT y manejo de bases de datos relacionales.
 
 
 ---
@@ -55,7 +56,8 @@ Desarrollo de una aplicación backend para la gestión de proveedores, aplicando
   🔹Conexión y administración de bases de datos con DBeaver
   🔹Introducción a autenticación con JWT
 
-Proyecto en desarrollo (aún no publicado en GitHub).
+  Proyecto en desarrollo (aún no publicado en GitHub).
+  
 ---
 
 ## 📫 Conéctate conmigo
