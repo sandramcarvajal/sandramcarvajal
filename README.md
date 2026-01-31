@@ -1,7 +1,8 @@
 # 👋 Hola, soy Sandra Carvajal
 
-🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB)  
-🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD)  
+🎓 Estudiante de **Técnico Laboral en Programación de Software** en la Universidad Pontificia Bolivariana (UPB).  
+🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Nacional Abierta y a Distancia (UNAD).  
+⭐ Actualemente en búsqueda de un contrato de aprendizaje en desarrollo de software.
 
 
 ---
@@ -9,10 +10,10 @@
 ## 🛠 Tecnologías y Herramientas
 
 - **Lenguajes:** PHP, Python, JavaScript  
-- **Web:** HTML, CSS, Bootstrap  
+- **Web:** HTML, CSS, Bootstrap, Tailwind CSS, Blazor  
 - **Bases de datos:** MySQL, PostgreSQL, Oracle BD  
-- **Control de versiones:** Git, GitHub  
-- **Diseño y UX/UI:** Figma  
+- **Frameworks y Diseño:** Figma, flutter, UX/UI
+- **Control de versiones:** Git, GitHub   
 ---
 
 ## 📂 Proyectos Destacados
